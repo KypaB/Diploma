@@ -1,0 +1,186 @@
+newmtl BlueWizard:BlueHat
+illum 4
+Kd 0.00 0.06 0.64
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl BlueWizard:BlueRim
+illum 4
+Kd 0.64 0.34 0.17
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.37 0.00
+Ns 96.08
+newmtl BlueWizard:BlueRobe
+illum 4
+Kd 0.00 0.16 0.64
+Ka 0.06 0.06 0.06
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl BlueWizard:EyePupilBlue
+illum 4
+Kd 0.02 0.03 0.05
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.97 0.97 0.97
+Ns 200.00
+newmtl BlueWizard:EyeWhite
+illum 4
+Kd 1.00 0.90 0.84
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl BlueWizard:Face
+illum 4
+Kd 1.00 0.45 0.23
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 96.08
+newmtl BlueWizard:Wand
+illum 4
+Kd 0.19 0.03 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.23 0.03 0.01
+Ns 43.14
+newmtl BlueWizard:WandHandle
+illum 4
+Kd 0.05 0.01 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl RedWizard:EyePupilRed
+illum 4
+Kd 0.01 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.97 0.97 0.97
+Ns 200.00
+newmtl RedWizard:EyeWhite
+illum 4
+Kd 1.00 0.90 0.84
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl RedWizard:Face
+illum 4
+Kd 1.00 0.45 0.23
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 96.08
+newmtl RedWizard:RedHat
+illum 4
+Kd 0.63 0.04 0.03
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl RedWizard:RedRim
+illum 4
+Kd 0.79 0.31 0.01
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 76.47
+newmtl RedWizard:RedRobe
+illum 4
+Kd 0.64 0.04 0.03
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl RedWizard:Wand
+illum 4
+Kd 0.19 0.03 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.23 0.03 0.01
+Ns 43.14
+newmtl RedWizard:WandHandle
+illum 4
+Kd 0.05 0.01 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl WhiteWizard:EyePupilWhite
+illum 4
+Kd 0.10 0.15 0.15
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.97 0.97 0.97
+Ns 200.00
+newmtl WhiteWizard:EyeWhite
+illum 4
+Kd 1.00 0.90 0.84
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl WhiteWizard:Face
+illum 4
+Kd 1.00 0.45 0.23
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 96.08
+newmtl WhiteWizard:Wand
+illum 4
+Kd 0.19 0.03 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.23 0.03 0.01
+Ns 43.14
+newmtl WhiteWizard:WandHandle
+illum 4
+Kd 0.05 0.01 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 96.08
+newmtl WhiteWizard:WhiteHat
+illum 4
+Kd 0.74 0.74 0.74
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl WhiteWizard:WhiteRim
+illum 4
+Kd 0.14 0.29 0.44
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+Ks 0.01 0.08 1.00
+Ns 78.43
+newmtl WhiteWizard:WhiteRobe
+illum 4
+Kd 0.55 0.64 0.64
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl initialParticleSE
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00

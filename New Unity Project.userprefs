@@ -1,0 +1,30 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\QuestoneStart.js">
+    <Files>
+      <File FileName="Assets\QuestoneStart.js" Line="1" Column="1" />
+      <File FileName="Assets\QuestoneEnd.js" Line="1" Column="1" />
+      <File FileName="Assets\QuestoneStart.js" Line="1" Column="1" />
+      <File FileName="Assets\InvetorySystem.js" Line="1" Column="1" />
+      <File FileName="Assets\EnemyHp.js" Line="1" Column="1" />
+      <File FileName="Assets\InvetoryAddItem.js" Line="1" Column="1" />
+      <File FileName="Assets\Collection.js" Line="1" Column="1" />
+      <File FileName="Assets\PlayerHp.js" Line="1" Column="1" />
+      <File FileName="Assets\PuseGame.js" Line="1" Column="1" />
+      <File FileName="Assets\AIenemy.js" Line="1" Column="1" />
+      <File FileName="Assets\AudioZone.js" Line="1" Column="1" />
+      <File FileName="Assets\DoorLogic.js" Line="1" Column="1" />
+      <File FileName="Assets\EndGame.js" Line="1" Column="1" />
+      <File FileName="Assets\Credits.js" Line="1" Column="1" />
+      <File FileName="Assets\PuseMenu.js" Line="1" Column="1" />
+      <File FileName="Assets\MeleDo.js" Line="1" Column="1" />
+      <File FileName="Assets\LevelAndExperience.js" Line="1" Column="1" />
+      <File FileName="Assets\PlayGame.js" Line="1" Column="1" />
+      <File FileName="Assets\PlayerInvetory.js" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

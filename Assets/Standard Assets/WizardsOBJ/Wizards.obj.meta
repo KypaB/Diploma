@@ -1,0 +1,166 @@
+fileFormatVersion: 2
+guid: 627bae7e1598e8e4e97eb2f5b96fb2cc
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: BlueWizard1
+    100002: BlueWizard1_BlueWizard_Face
+    100004: BlueWizard1_BlueWizard_Face BlueWizard_Eyes
+    100006: BlueWizard1_BlueWizard_Face BlueWizard_Hat
+    100008: BlueWizard1_BlueWizard_LeftHand
+    100010: BlueWizard1_BlueWizardRight_Hand
+    100012: BlueWizard1_BlueWizardRight_Hand BlueWizard_Wand
+    100014: RedWizard1
+    100016: RedWizard1_RedWizard_Face
+    100018: RedWizard1_RedWizard_Face RedWizard_Eyes
+    100020: RedWizard1_RedWizard_Face RedWizard_Hat
+    100022: RedWizard1_RedWizard_LeftHand
+    100024: RedWizard1_RedWizard_LeftHand RedWizard_Wand
+    100026: RedWizard1_RedWizard_RightHand
+    100028: WhiteWizard1
+    100030: WhiteWizard1_WhiteWiard_LeftHand
+    100032: WhiteWizard1_WhiteWiard_LeftHand WhiteWizard_Wand
+    100034: WhiteWizard1_WhiteWizard_Face
+    100036: WhiteWizard1_WhiteWizard_Face WhiteWizard_Eyes
+    100038: WhiteWizard1_WhiteWizard_Face WhiteWizard_Hat
+    100040: WhiteWizard1_WhiteWizard_RightHand
+    100042: //RootNode
+    400000: BlueWizard1
+    400002: BlueWizard1_BlueWizard_Face
+    400004: BlueWizard1_BlueWizard_Face BlueWizard_Eyes
+    400006: BlueWizard1_BlueWizard_Face BlueWizard_Hat
+    400008: BlueWizard1_BlueWizard_LeftHand
+    400010: BlueWizard1_BlueWizardRight_Hand
+    400012: BlueWizard1_BlueWizardRight_Hand BlueWizard_Wand
+    400014: RedWizard1
+    400016: RedWizard1_RedWizard_Face
+    400018: RedWizard1_RedWizard_Face RedWizard_Eyes
+    400020: RedWizard1_RedWizard_Face RedWizard_Hat
+    400022: RedWizard1_RedWizard_LeftHand
+    400024: RedWizard1_RedWizard_LeftHand RedWizard_Wand
+    400026: RedWizard1_RedWizard_RightHand
+    400028: WhiteWizard1
+    400030: WhiteWizard1_WhiteWiard_LeftHand
+    400032: WhiteWizard1_WhiteWiard_LeftHand WhiteWizard_Wand
+    400034: WhiteWizard1_WhiteWizard_Face
+    400036: WhiteWizard1_WhiteWizard_Face WhiteWizard_Eyes
+    400038: WhiteWizard1_WhiteWizard_Face WhiteWizard_Hat
+    400040: WhiteWizard1_WhiteWizard_RightHand
+    400042: //RootNode
+    2300000: BlueWizard1
+    2300002: BlueWizard1_BlueWizard_Face
+    2300004: BlueWizard1_BlueWizard_Face BlueWizard_Eyes
+    2300006: BlueWizard1_BlueWizard_Face BlueWizard_Hat
+    2300008: BlueWizard1_BlueWizard_LeftHand
+    2300010: BlueWizard1_BlueWizardRight_Hand
+    2300012: BlueWizard1_BlueWizardRight_Hand BlueWizard_Wand
+    2300014: RedWizard1
+    2300016: RedWizard1_RedWizard_Face
+    2300018: RedWizard1_RedWizard_Face RedWizard_Eyes
+    2300020: RedWizard1_RedWizard_Face RedWizard_Hat
+    2300022: RedWizard1_RedWizard_LeftHand
+    2300024: RedWizard1_RedWizard_LeftHand RedWizard_Wand
+    2300026: RedWizard1_RedWizard_RightHand
+    2300028: WhiteWizard1
+    2300030: WhiteWizard1_WhiteWiard_LeftHand
+    2300032: WhiteWizard1_WhiteWiard_LeftHand WhiteWizard_Wand
+    2300034: WhiteWizard1_WhiteWizard_Face
+    2300036: WhiteWizard1_WhiteWizard_Face WhiteWizard_Eyes
+    2300038: WhiteWizard1_WhiteWizard_Face WhiteWizard_Hat
+    2300040: WhiteWizard1_WhiteWizard_RightHand
+    3300000: BlueWizard1
+    3300002: BlueWizard1_BlueWizard_Face
+    3300004: BlueWizard1_BlueWizard_Face BlueWizard_Eyes
+    3300006: BlueWizard1_BlueWizard_Face BlueWizard_Hat
+    3300008: BlueWizard1_BlueWizard_LeftHand
+    3300010: BlueWizard1_BlueWizardRight_Hand
+    3300012: BlueWizard1_BlueWizardRight_Hand BlueWizard_Wand
+    3300014: RedWizard1
+    3300016: RedWizard1_RedWizard_Face
+    3300018: RedWizard1_RedWizard_Face RedWizard_Eyes
+    3300020: RedWizard1_RedWizard_Face RedWizard_Hat
+    3300022: RedWizard1_RedWizard_LeftHand
+    3300024: RedWizard1_RedWizard_LeftHand RedWizard_Wand
+    3300026: RedWizard1_RedWizard_RightHand
+    3300028: WhiteWizard1
+    3300030: WhiteWizard1_WhiteWiard_LeftHand
+    3300032: WhiteWizard1_WhiteWiard_LeftHand WhiteWizard_Wand
+    3300034: WhiteWizard1_WhiteWizard_Face
+    3300036: WhiteWizard1_WhiteWizard_Face WhiteWizard_Eyes
+    3300038: WhiteWizard1_WhiteWizard_Face WhiteWizard_Hat
+    3300040: WhiteWizard1_WhiteWizard_RightHand
+    4300000: BlueWizard1
+    4300002: BlueWizard1_BlueWizard_Face
+    4300004: BlueWizard1_BlueWizard_Face BlueWizard_Eyes
+    4300006: BlueWizard1_BlueWizard_Face BlueWizard_Hat
+    4300008: BlueWizard1_BlueWizard_LeftHand
+    4300010: BlueWizard1_BlueWizardRight_Hand
+    4300012: BlueWizard1_BlueWizardRight_Hand BlueWizard_Wand
+    4300014: RedWizard1
+    4300016: RedWizard1_RedWizard_Face
+    4300018: RedWizard1_RedWizard_Face RedWizard_Eyes
+    4300020: RedWizard1_RedWizard_Face RedWizard_Hat
+    4300022: RedWizard1_RedWizard_LeftHand
+    4300024: RedWizard1_RedWizard_LeftHand RedWizard_Wand
+    4300026: RedWizard1_RedWizard_RightHand
+    4300028: WhiteWizard1
+    4300030: WhiteWizard1_WhiteWiard_LeftHand
+    4300032: WhiteWizard1_WhiteWiard_LeftHand WhiteWizard_Wand
+    4300034: WhiteWizard1_WhiteWizard_Face
+    4300036: WhiteWizard1_WhiteWizard_Face WhiteWizard_Eyes
+    4300038: WhiteWizard1_WhiteWizard_Face WhiteWizard_Hat
+    4300040: WhiteWizard1_WhiteWizard_RightHand
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 1
+  userData: 
